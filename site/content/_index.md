@@ -1,20 +1,28 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: TURNING THE NEXT BILLION DOLLAR IDEA  INTO REALITY.
+subtitle: We are Curioustools.
+image: img/266509-copy.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Who are curioustools?
+  text: We are a bunch of curious minds continuously exploring the depths of
+    technology and giving innovative ideas a life.  We believe in making
+    scalable, robust and unbreakable softwares that would be loved by billions
+    of users worldwide
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer?
+  text: Lots of stuff baby
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/android.png
+    text: "Mobile App services . We build robust, high quality native mobile android
+      apps using MVVM architecture with reactive bindings to bring you the
+      utmost scalable solution "
+  - image: img/icon-pros-img2.png
+    text: "Web development. We are ready to make your business global with our
+      cutting edge  in-house web frameworks "
+  - image: img/download-3-.png
+    text: Product Design. Keep your imaginations flying high while our expert
+      designers make them practical.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Values
+  text: always there for you.
 ---
-
